@@ -1,0 +1,35 @@
+#: locale=es
+
+## Acción
+
+### URL
+WebFrame_B97CF70C_AA4E_C74A_41C0_14EEEE9DC123.url = https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d2933.8995236780474!2d-74.8632883773452!3d11.017235503581329!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1ses!2sco!4v1669320004809!5m2!1ses!2sco
+
+## Hotspot
+
+### Texto
+HotspotPanoramaOverlayTextImage_BD8C4438_AAC9_594C_418E_D7D51BA84429.text = Carrera 51 B
+HotspotPanoramaOverlayTextImage_BF7971E3_B13F_10FB_41C9_FC8042149EAF.text = Carrera 51 B
+
+## Media
+
+### Imágen
+imlevel_0A8684F5_0743_144C_4196_02C625D08526.url = media/panorama_B89923BE_B125_3140_41B7_BAF54EC9EB59_HS_69780t6k_es.png
+imlevel_0A8E7554_0743_144D_4195_7F71629BC227.url = media/panorama_BC3A6D9D_B123_314B_41A3_05D191AC2489_HS_549g9dc6_es.png
+
+### Título
+panorama_BC3A6D9D_B123_314B_41A3_05D191AC2489.label = [Group 0]-DJI_0001_DJI_0026-26 images
+panorama_B89923BE_B125_3140_41B7_BAF54EC9EB59.label = foto final
+
+## Skin
+
+### Imágen
+Image_A4F645EF_AA56_DAC1_4191_C92E588DBBA5.url = skin/Image_A4F645EF_AA56_DAC1_4191_C92E588DBBA5_es.png
+Image_B84E8D10_AA49_CB5B_41E4_9A6F465E1CDC.url = skin/Image_B84E8D10_AA49_CB5B_41E4_9A6F465E1CDC_es.png
+
+## Tour
+
+### Descripción
+
+### Título
+tour.name = Sin Título 1
